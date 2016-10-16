@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/G:/XAMP/htdocs/hotel_managementsystem/resources/views/welcome.blade.php</file>
+            <file>file:/G:/XAMP/htdocs/hotel_managementsystem/resources/views/pages/booking.blade.php</file>
+            <file>file:/G:/XAMP/htdocs/hotel_managementsystem/resources/views/pages/room_details.blade.php</file>
+            <file>file:/G:/XAMP/htdocs/hotel_managementsystem/resources/views/pages/footer.blade.php</file>
+            <file>file:/G:/XAMP/htdocs/hotel_managementsystem/app/Http/Controllers/SuperAdminController.php</file>
+            <file>file:/G:/XAMP/htdocs/hotel_managementsystem/resources/views/pages/gallery.blade.php</file>
+            <file>file:/G:/XAMP/htdocs/hotel_managementsystem/app/Http/Controllers/WelcomeController.php</file>
+            <file>file:/G:/XAMP/htdocs/hotel_managementsystem/resources/views/pages/single_blog.blade.php</file>
+            <file>file:/G:/XAMP/htdocs/hotel_managementsystem/resources/views/pages/index.blade.php</file>
+            <file>file:/G:/XAMP/htdocs/hotel_managementsystem/resources/views/test.blade.php</file>
+            <file>file:/G:/XAMP/htdocs/hotel_managementsystem/resources/views/pages/error.blade.php</file>
+            <file>file:/G:/XAMP/htdocs/hotel_managementsystem/resources/views/pages/blog.blade.php</file>
+            <file>file:/G:/XAMP/htdocs/hotel_managementsystem/routes/web.php</file>
+            <file>file:/G:/XAMP/htdocs/hotel_managementsystem/resources/views/pages/about_us.blade.php</file>
+            <file>file:/G:/XAMP/htdocs/hotel_managementsystem/resources/views/index.blade.php</file>
+            <file>file:/G:/XAMP/htdocs/hotel_managementsystem/resources/views/pages/our_staff.blade.php</file>
+            <file>file:/G:/XAMP/htdocs/hotel_managementsystem/resources/views/admin/admin_master.blade.php</file>
+            <file>file:/G:/XAMP/htdocs/hotel_managementsystem/resources/views/admin/pages/add_admin.blade.php</file>
+            <file>file:/G:/XAMP/htdocs/hotel_managementsystem/resources/views/pages/contact_us.blade.php</file>
+            <file>file:/G:/XAMP/htdocs/hotel_managementsystem/resources/views/pages/accomodation.blade.php</file>
+            <file>file:/G:/XAMP/htdocs/hotel_managementsystem/resources/views/pages/header.blade.php</file>
+            <file>file:/G:/XAMP/htdocs/hotel_managementsystem/resources/views/admin/pages/add_staff.blade.php</file>
+        </group>
+    </open-files>
+</project-private>
